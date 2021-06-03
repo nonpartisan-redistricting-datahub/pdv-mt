@@ -39,6 +39,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Note: not finding a precinct map on the Phillips County website. Emailed the County Clerk, Lynnel LaBrie at clerkrecorder@phillipscounty.mt.gov. 
 - File: Valley County Precinct Shapefile, 2016
    - Note: not finding a precinct map on the Valley County website. Emailed the County Clerk, Marie Pippin at mpippin@valleycountymt.gov. 
+- File: Lewis & Clark County Shapefile, 2016
+   - Date accessed: 5/27/2021
+   - Link: https://www.lccountymt.gov/it/gis-maps/completed-maps/voting-precincts.html
+   - Note: only PDFs of the precinct maps are available. 
 
 
 ## File processing:

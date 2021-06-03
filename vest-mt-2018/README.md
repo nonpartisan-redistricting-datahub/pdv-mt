@@ -29,6 +29,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Date accessed: 5/27/2021
    - Link: https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/30_MONTANA/30/
    - File: `tl_2020_30_vtd20.zip` (available upon request)
+- File: Lewis & Clark County Shapefile, 2016
+   - Date accessed: 5/27/2021
+   - Link: https://www.lccountymt.gov/it/gis-maps/completed-maps/voting-precincts.html
+   - Note: only PDFs of the precinct maps are available. 
 
 ## File processing:
 
