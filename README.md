@@ -17,3 +17,9 @@ RDH's partner data validation for VEST's 2016 MT file. VEST's raw file is availa
 RDH's partner data validation for VEST's 2018 MT file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/I7WR18).
 
 #### _In progress as of 5/27/21_
+
+## vest-mt-2020
+
+RDH's partner data validation for VEST's 2020 MT file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7760H).
+
+#### _In progress as of 6/9/21_
