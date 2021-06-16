@@ -11,7 +11,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: VEST MT 2020 file
    - Date accessed: 06/09/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4773527&version=10.0
-   - File: `mt_2018.zip`
+   - File: `mt_2020.zip`
 - File: VEST documentation file, 2020
    - Date accessed: 06/09/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4773529&version=9.0
@@ -19,7 +19,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Election Results, SOS 2020
    - Date accessed: 06/09/2021
    - Link: https://sosmt.gov/elections/results/
-   - File: `2018-GeneralPrecinct-by-Precinct_Votes.xlsx` (available upon request)
+   - File: `2020-GeneralPrecinct-by-Precinct_Votes.xlsx` (available upon request)
    - Note: selected "Precinct by Precinct" under 2020 General. 
 - File: SOS Precinct Shapefile, 2020 
    - Date accessed: 06/11/2021
