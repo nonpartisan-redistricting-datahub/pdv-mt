@@ -1,6 +1,6 @@
 # vest-mt-2020
 
-[In progress] Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/state/montana/).
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-montana-precinct-and-election-results/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
@@ -29,4 +29,4 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## File processing:
 
-`vest-mt-2018-validation.ipynb` is the script that is the basis of the validation report
+`vest-mt-2020-validation.ipynb` is the script that is the basis of the validation report
