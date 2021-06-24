@@ -26,23 +26,24 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Date accessed: 5/27/2021
    - Link: https://mslservices.mt.gov/Geographic_Information/Data/DataList/datalist_Details.aspx?did=%7bdbd29997-21d8-4af1-9d87-5c5134775995%7d
    - File: `MontanaVotingPrecincts_shp.zip` (available upon request)
-- File: TIGER/Line VTD File, 2020
-   - Date accessed: 5/27/2021
-   - Link: https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/30_MONTANA/30/
-   - File: `tl_2020_30_vtd20.zip` (available upon request)
+
    
 ### Inaccessible Files: 
+- File: Lake County Shapefile
+      - Accessed: 6/24/2021, Source: Lake County
+      - https://www.lakemt.gov/election/pdf/Lake%20County%20Precincts.pdf
+      - Note: only PDFs of the precinct map are available.
 - File: Fallon County Precinct Shapefile, 2016
-   - Link: https://www.falloncounty.net/elections.html#gsc.tab=0
-   - Note: there is a pdf of a precinct map from 2017 on the Fallon County website. They only list a phone number as contact and we tried calling on 5/27/2021 but did not get through to someone. 
+      - Link: https://www.falloncounty.net/elections.html#gsc.tab=0
+      - Note: there is a pdf of a precinct map from 2017 on the Fallon County website. They only list a phone number as contact and we tried calling on 5/27/2021 but         did not get through to someone. 
 - File: Phillips County Precinct Shapefile, 2016
-   - Note: not finding a precinct map on the Phillips County website. Emailed the County Clerk, Lynnel LaBrie at clerkrecorder@phillipscounty.mt.gov. 
+      - Note: not finding a precinct map on the Phillips County website. Emailed the County Clerk, Lynnel LaBrie at clerkrecorder@phillipscounty.mt.gov. 
 - File: Valley County Precinct Shapefile, 2016
-   - Note: not finding a precinct map on the Valley County website. Emailed the County Clerk, Marie Pippin at mpippin@valleycountymt.gov. 
+      - Note: not finding a precinct map on the Valley County website. Emailed the County Clerk, Marie Pippin at mpippin@valleycountymt.gov. 
 - File: Lewis & Clark County Shapefile, 2016
-   - Date accessed: 5/27/2021
-   - Link: https://www.lccountymt.gov/it/gis-maps/completed-maps/voting-precincts.html
-   - Note: only PDFs of the precinct maps are available. 
+      - Date accessed: 5/27/2021
+      - Link: https://www.lccountymt.gov/it/gis-maps/completed-maps/voting-precincts.html
+      - Note: only PDFs of the precinct maps are available. 
 
 
 ## File processing:
