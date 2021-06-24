@@ -1,6 +1,6 @@
 # vest-mt-2018
 
-[In progress] Our final validation report for this dataset is available [here]().
+Our final validation report for this dataset is available [here]().
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
